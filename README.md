@@ -19,7 +19,7 @@
 
 ---
 
-### 🌐 Connect with Me
+### 🤝 Connect with Me
 <div align="center">
   <a href="https://linkedin.com/in/muhamed-h-3a2a25250" target="_blank" style="margin-right: 10px;">
     <img 
@@ -29,22 +29,30 @@
       width="40"
     />
   </a>
-  <a href="https://codeforces.com/profile/muhamed." target="_blank" style="margin-right: 10px;">
-    <img 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" 
-      alt="Codeforces" 
-      height="30" 
-      width="40"
-    />
-  </a>
-  <a href="https://www.leetcode.com/mh1191128" target="_blank">
-    <img 
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
-      alt="LeetCode" 
-      height="30" 
-      width="40"
-    />
-  </a>
+</div>
+
+---
+
+### 🧩 Problem Solving
+<div align="center">
+  <div>
+    <a href="https://codeforces.com/profile/muhamed." target="_blank" style="margin-right: 10px;">
+      <img 
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" 
+        alt="Codeforces" 
+        height="30" 
+        width="40"
+      />
+    </a>
+    <a href="https://www.leetcode.com/mh1191128" target="_blank">
+      <img 
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" 
+        alt="LeetCode" 
+        height="30" 
+        width="40"
+      />
+    </a>
+  </div>
 </div>
 
 ---
@@ -124,5 +132,3 @@
     />
   </a>
 </div>
-
-
