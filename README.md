@@ -1,9 +1,5 @@
-👋 Hi, I’m @muhamedhamedvl
-
-👀 I’m passionate about Backend Development, .NET, and Software Architecture
-
-🌱 I’m currently learning ASP.NET Core, Clean Architecture, and Cloud Technologies
-
-💞️ I’m open to collaborating on scalable web apps and real-world .NET projects
-
-📫 You can reach me at mh1191128@gmail.com
+👋 Hi, I’m Mohamed Hamed (@muhamedhamedvl)
+💻 I’m a .NET Backend Developer with a strong focus on building scalable, maintainable, and clean software solutions.
+🚀 Currently exploring Cloud-based Architectures, Microservices, and Clean Architecture principles.
+🤝 Open to collaborating on ASP.NET Core, C#, and enterprise-grade backend systems.
+📫 Feel free to reach out: mh1191128@gmail.com
