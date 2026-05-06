@@ -25,8 +25,3 @@ I'm a junior software developer who enjoys building real and useful projects.I l
 • ChatRoom (SignalR App) ([github repo](https://github.com/muhamedhamedvl/ChatRoom))
 
 • Ecommerce Book Store ([github repo](https://github.com/muhamedhamedvl/EcommerceBookStore))
-
----
-### 📫 Contact
-• Email: mh1191128@gmail.com  
-• LinkedIn: https://www.linkedin.com/in/muhamed-hamed-3a2a25250/
