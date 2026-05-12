@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-
+                                                                                ![](https://komarev.com/ghpvc/?username=muhamedhamedvl&color=blue)
 I'm a junior software developer who enjoys building real and useful projects.I like working with .NET and Web APIs, and recently I've been getting into system design and exploring LLMs.
 
 ### 💻 Some of my work
