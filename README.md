@@ -1,16 +1,23 @@
-#                                                                                                                      Hi I'm Muhamed Hamed 👋
+# Hi I'm Muhamed Hamed 👋
+
+![](https://komarev.com/ghpvc/?username=muhamedhamedvl&label=Profile%20Views&color=0e75b6&style=flat)
+
 <p align="center">
   <a href="https://www.linkedin.com/in/muhamed-hamed-3a2a25250/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
+  
   <a href="https://www.instagram.com/muhamedhamedvl/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+  
   <a href="mailto:mh1191128@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
-                                                                                ![](https://komarev.com/ghpvc/?username=muhamedhamedvl&color=blue)
+
+---
+
 I'm a junior software developer who enjoys building real and useful projects.I like working with .NET and Web APIs, and recently I've been getting into system design and exploring LLMs.
 
 ### 💻 Some of my work
